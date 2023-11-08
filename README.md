@@ -1,4 +1,4 @@
-** Reproduction Steps **
+# Reproduction Steps
 
 1. Install gping `brew install gping`
 2. Deploy to a fly app `fly deploy`
